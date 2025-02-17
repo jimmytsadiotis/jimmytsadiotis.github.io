@@ -1890,10 +1890,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-/* Resume section text color - Updated to include list items */
+/* Resume section text color - Updated to use --light-gray variable */
 .resume .timeline-text,
 .resume .timeline-item-title,
 .resume .h3,
 .resume .timeline-list li {
-  color: #fff;
+  color: var(--light-gray);
 }
