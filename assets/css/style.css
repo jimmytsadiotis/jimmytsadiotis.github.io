@@ -1889,3 +1889,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+/* Resume section text color */
+.resume .timeline-text,
+.resume .timeline-item-title,
+.resume .h3 { /* Applying to titles as well for consistency */
+  color: #fff; /* Change this to your desired text color, e.g., white */
+}
