@@ -555,12 +555,12 @@ main {
   line-height: 1.6;
 }
 
-.service-icon-box .fas {
-  color: var(--orange-yellow-crayola);
+.service-icon-box i.fas {
+  color: var(--orange-yellow-crayola) !important;
   transition: transform 0.3s ease;
 }
 
-.service-icon-box .fas:hover {
+.service-icon-box i.fas:hover {
   transform: scale(1.1);
 }
 
