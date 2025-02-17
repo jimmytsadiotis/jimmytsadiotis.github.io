@@ -555,6 +555,15 @@ main {
   line-height: 1.6;
 }
 
+.service-icon-box .fas {
+  color: var(--orange-yellow-crayola);
+  transition: transform 0.3s ease;
+}
+
+.service-icon-box .fas:hover {
+  transform: scale(1.1);
+}
+
 
 /**
  * #testimonials 
