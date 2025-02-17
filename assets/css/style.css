@@ -1896,10 +1896,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 .resume .h3,
 .resume .timeline-list li {
   color: var(--light-gray);
-}
-
-/* Add bullet points to resume lists */
-.resume .timeline-list ul {
-  list-style-type: disc; /* Add bullet points (disc style) */
-  padding-left: 20px; /* Add left padding for bullet point spacing */
+  list-style-type: disc;
+  padding-left: 20px;
 }
