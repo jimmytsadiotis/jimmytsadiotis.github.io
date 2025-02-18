@@ -25,7 +25,7 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
+    hsl(38, 30%, 35%) 3%, 
     hsl(0, 0%, 19%) 97%
   );
   --bg-gradient-jet: linear-gradient(
@@ -805,7 +805,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
+  color: var(--orange-yellow-crayola);
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
