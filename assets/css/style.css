@@ -805,7 +805,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--orange-yellow-crayola);
+  color: hsl(38, 88%, 55%) !important;
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
