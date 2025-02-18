@@ -60,3 +60,4 @@ jobs:
           artifact_name: github-pages
           base_path: blog/_site
           publish_dir: .
+
